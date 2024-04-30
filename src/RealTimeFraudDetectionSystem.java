@@ -37,6 +37,8 @@ public class RealTimeFraudDetectionSystem {
     }
 
     // Method to generate an alert for suspicious behavior
+
+
     private static void generateAlert(String message) {
         System.out.println("ALERT: " + message);
     }
